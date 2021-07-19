@@ -1,3 +1,3 @@
-# Carrera de Tortugas
+#  Carrera de tortugas
 
-Proyecto que muestra como utilizar objetos tipo turtle
+Proyecto que muestra como utilizar objetos de tipo turtle
